@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "category": "General Health",
+        "question": "What are common signs of flu?",
+        "question_ur": "فلو کی عام علامات کیا ہیں؟",
+        "answer": "Fever, cough, sore throat, runny nose, body aches.",
+        "answer_ur": "بخار، کھانسی، گلے میں درد، بہتی ہوئی ناک، جسم میں درد۔"
+    },
+    {
+        "id": 2,
+        "category": "General Health",
+        "question": "How much water should I drink daily?",
+        "question_ur": "مجھے روزانہ کتنا پانی پینا چاہیے؟",
+        "answer": "About 8 glasses or 2 liters per day.",
+        "answer_ur": "تقریباً 8 گلاس یا 2 لیٹر روزانہ۔"
+    },
+    {
+        "id": 3,
+        "category": "General Health",
+        "question": "What is a normal body temperature?",
+        "question_ur": "جسم کا نارمل درجہ حرارت کیا ہوتا ہے؟",
+        "answer": "Around 98.6°F (37°C).",
+        "answer_ur": "تقریباً 98.6 ڈگری فارن ہائیٹ (37 ڈگری سینٹی گریڈ)۔"
+    },
+    {
+        "id": 4,
+        "category": "Cardiology",
+        "question": "What are symptoms of a heart attack?",
+        "question_ur": "دل کے دورے کی علامات کیا ہیں؟",
+        "answer": "Chest pain, shortness of breath, pain in arm or jaw.",
+        "answer_ur": "سینے میں درد، سانس لینے میں دشواری، بازو یا جبڑے میں درد۔"
+    },
+    {
+        "id": 5,
+        "category": "Cardiology",
+        "question": "How can I lower my blood pressure?",
+        "question_ur": "میں اپنا بلڈ پریشر کیسے کم کر سکتا ہوں؟",
+        "answer": "Reduce salt, exercise, eat healthy, limit alcohol.",
+        "answer_ur": "نمک کم کریں، ورزش کریں، صحت بخش کھانا کھائیں، الکحل سے پرہیز کریں۔"
+    },
+    {
+        "id": 6,
+        "category": "Diabetes",
+        "question": "What are early signs of diabetes?",
+        "question_ur": "ذیابیطس کی ابتدائی علامات کیا ہیں؟",
+        "answer": "Excessive thirst, frequent urination, fatigue.",
+        "answer_ur": "بہت زیادہ پیاس، بار بار پیشاب آنا، تھکاوٹ۔"
+    },
+    {
+        "id": 7,
+        "category": "Diabetes",
+        "question": "What is a normal blood sugar level?",
+        "question_ur": "بلڈ شوگر کی نارمل سطح کیا ہے؟",
+        "answer": "Fasting: 70-100 mg/dL.",
+        "answer_ur": "نہار منہ: 70-100 ملی گرام/ڈیسی لیٹر۔"
+    },
+    {
+        "id": 8,
+        "category": "Respiratory",
+        "question": "How to treat a dry cough?",
+        "question_ur": "خشک کھانسی کا علاج کیسے کریں؟",
+        "answer": "Honey, warm fluids, cough suppressants.",
+        "answer_ur": "شہد، گرم مشروبات، کھانسی کا شربت۔"
+    },
+    {
+        "id": 9,
+        "category": "Respiratory",
+        "question": "What triggers asthma?",
+        "question_ur": "دمہ کس وجہ سے ہوتا ہے؟",
+        "answer": "Dust, pollen, smoke, cold air.",
+        "answer_ur": "دھول، پولن، دھواں، ٹھنڈی ہوا۔"
+    },
+    {
+        "id": 10,
+        "category": "Mental Health",
+        "question": "How to manage stress?",
+        "question_ur": "ذہنی دباؤ کو کیسے کنٹرول کریں؟",
+        "answer": "Exercise, meditation, sleep, talk to someone.",
+        "answer_ur": "ورزش، مراقبہ، نیند، کسی سے بات کریں۔"
+    },
+    {
+        "id": 11,
+        "category": "Mental Health",
+        "question": "What are signs of depression?",
+        "question_ur": "ڈپریشن کی علامات کیا ہیں؟",
+        "answer": "Sadness, loss of interest, sleep changes.",
+        "answer_ur": "اداسی، دلچسپی ختم ہونا، نیند میں تبدیلی۔"
+    },
+    {
+        "id": 12,
+        "category": "Nutrition",
+        "question": "What foods are high in iron?",
+        "question_ur": "کن غذاؤں میں آئرن زیادہ ہوتا ہے؟",
+        "answer": "Spinach, red meat, lentils, beans.",
+        "answer_ur": "پالک، سرخ گوشت، دالیں، پھلیاں۔"
+    },
+    {
+        "id": 13,
+        "category": "Nutrition",
+        "question": "Is breakfast important?",
+        "question_ur": "کیا ناشتہ اہم ہے؟",
+        "answer": "Yes, it fuels your body for the day.",
+        "answer_ur": "جی ہاں، یہ آپ کے جسم کو دن بھر کے لیے توانائی دیتا ہے۔"
+    },
+    {
+        "id": 14,
+        "category": "First Aid",
+        "question": "How to treat a minor burn?",
+        "question_ur": "معمولی جلنے کا علاج کیسے کریں؟",
+        "answer": "Cool water, aloe vera, cover loosely.",
+        "answer_ur": "ٹھنڈا پانی، ایلو ویرا، ڈھیلا ڈھانپیں۔"
+    },
+    {
+        "id": 15,
+        "category": "First Aid",
+        "question": "What to do for a nosebleed?",
+        "question_ur": "نکسیر پھوٹنے پر کیا کریں؟",
+        "answer": "Pinch nose, lean forward slightly.",
+        "answer_ur": "ناک کو دبائیں، تھوڑا سا آگے جھکیں۔"
+    },
+    {
+        "id": 16,
+        "category": "Pediatrics",
+        "question": "When do babies start teething?",
+        "question_ur": "بچے دانت نکالنا کب شروع کرتے ہیں؟",
+        "answer": "Usually around 6 months.",
+        "answer_ur": "عام طور پر 6 ماہ کے آس پاس۔"
+    },
+    {
+        "id": 17,
+        "category": "Pediatrics",
+        "question": "How to reduce fever in a child?",
+        "question_ur": "بچے کا بخار کیسے کم کریں؟",
+        "answer": "Fluids, lukewarm bath, medication if needed.",
+        "answer_ur": "پانی پلائیں، نیم گرم پانی سے نہلائیں، ضرورت ہو تو دوا دیں۔"
+    },
+    {
+        "id": 18,
+        "category": "Skin Care",
+        "question": "How to prevent acne?",
+        "question_ur": "کیل مہاسوں سے کیسے بچیں؟",
+        "answer": "Clean face, avoid touching, manage stress.",
+        "answer_ur": "چہرہ صاف رکھیں، چھونے سے گریز کریں، تناؤ کم کریں۔"
+    },
+    {
+        "id": 19,
+        "category": "Skin Care",
+        "question": "Best protection against sun?",
+        "question_ur": "سورج سے بہترین حفاظت کیا ہے؟",
+        "answer": "Sunscreen, hats, shade.",
+        "answer_ur": "سن اسکرین، ٹوپی، سایہ۔"
+    },
+    {
+        "id": 20,
+        "category": "Digestive Health",
+        "question": "Remedies for heartburn?",
+        "question_ur": "سینے کی جلن کا علاج؟",
+        "answer": "Antacids, avoid spicy food, sit up.",
+        "answer_ur": "اینٹیسڈ، مصالحہ دار کھانوں سے پرہیز، سیدھے بیٹھیں۔"
+    },
+    {
+        "id": 21,
+        "category": "Digestive Health",
+        "question": "Causes of constipation?",
+        "question_ur": "قبض کی وجوہات کیا ہیں؟",
+        "answer": "Low fiber, low water, lack of exercise.",
+        "answer_ur": "فائبر کی کمی، پانی کی کمی، ورزش کی کمی۔"
+    },
+    {
+        "id": 22,
+        "category": "Eye Health",
+        "question": "How to reduce eye strain?",
+        "question_ur": "آنکھوں کا دباؤ کیسے کم کریں؟",
+        "answer": "20-20-20 rule, breaks from screens.",
+        "answer_ur": "20-20-20 کا اصول، اسکرین سے وقفہ لیں۔"
+    },
+    {
+        "id": 23,
+        "category": "Eye Health",
+        "question": "Signs of needing glasses?",
+        "question_ur": "عینک کی ضرورت کی علامات؟",
+        "answer": "Blurry vision, headaches, squinting.",
+        "answer_ur": "دھندلا نظر آنا، سر درد، آنکھیں سکیڑنا۔"
+    },
+    {
+        "id": 24,
+        "category": "Dental Health",
+        "question": "How often to brush teeth?",
+        "question_ur": "دانت کتنی بار صاف کرنے چاہئیں؟",
+        "answer": "Twice a day, morning and night.",
+        "answer_ur": "دن میں دو بار، صبح اور رات۔"
+    },
+    {
+        "id": 25,
+        "category": "Dental Health",
+        "question": "What causes cavities?",
+        "question_ur": "کیڑا لگنے کی وجہ کیا ہے؟",
+        "answer": "Sugar, bacteria, poor hygiene.",
+        "answer_ur": "چینی، بیکٹیریا، ناقص صفائی۔"
+    },
+    {
+        "id": 26,
+        "category": "Sleep",
+        "question": "How many hours of sleep do adults need?",
+        "question_ur": "بالغوں کو کتنے گھنٹے نیند کی ضرورت ہوتی ہے؟",
+        "answer": "7-9 hours per night.",
+        "answer_ur": "رات میں 7 سے 9 گھنٹے۔"
+    },
+    {
+        "id": 27,
+        "category": "Sleep",
+        "question": "Tips for better sleep?",
+        "question_ur": "بہتر نیند کے لیے نکات؟",
+        "answer": "Dark room, schedule, avoid caffeine.",
+        "answer_ur": "اندھیرا کمرہ، وقت کی پابندی، کیفین سے پرہیز۔"
+    },
+    {
+        "id": 28,
+        "category": "Fitness",
+        "question": "Benefits of walking?",
+        "question_ur": "پیدل چلنے کے فوائد؟",
+        "answer": "Heart health, weight control, mood boost.",
+        "answer_ur": "دل کی صحت، وزن کنٹرول، موڈ میں بہتری۔"
+    },
+    {
+        "id": 29,
+        "category": "Fitness",
+        "question": "How often to exercise?",
+        "question_ur": "ورزش کتنی بار کرنی چاہیے؟",
+        "answer": "150 minutes moderate activity weekly.",
+        "answer_ur": "ہفتہ وار 150 منٹ درمیانی شدت کی سرگرمی۔"
+    },
+    {
+        "id": 30,
+        "category": "Viruses",
+        "question": "How does COVID-19 spread?",
+        "question_ur": "کووڈ-19 کیسے پھیلتا ہے؟",
+        "answer": "Droplets, close contact.",
+        "answer_ur": "قطرے، قریبی رابطہ۔"
+    },
+    {
+        "id": 31,
+        "category": "Viruses",
+        "question": "Difference between cold and flu?",
+        "question_ur": "نزلہ اور فلو میں کیا فرق ہے؟",
+        "answer": "Flu is more severe with fever and aches.",
+        "answer_ur": "فلو زیادہ شدید ہوتا ہے جس میں بخار اور درد ہوتا ہے۔"
+    },
+    {
+        "id": 32,
+        "category": "Pain Management",
+        "question": "Home remedy for headache?",
+        "question_ur": "سر درد کا گھریلو علاج؟",
+        "answer": "Water, rest, cold pack.",
+        "answer_ur": "پانی، آرام، ٹھنڈی پٹی۔"
+    },
+    {
+        "id": 33,
+        "category": "Pain Management",
+        "question": "What is ibuprofen used for?",
+        "question_ur": "آئیبوپروفین کس لیے استعمال ہوتی ہے؟",
+        "answer": "Pain, inflammation, fever.",
+        "answer_ur": "درد، سوزش، بخار۔"
+    },
+    {
+        "id": 34,
+        "category": "Allergies",
+        "question": "Common allergy symptoms?",
+        "question_ur": "الرجی کی عام علامات؟",
+        "answer": "Sneezing, itching, rashes.",
+        "answer_ur": "چھینکیں، خارش، دانے۔"
+    },
+    {
+        "id": 35,
+        "category": "Allergies",
+        "question": "What is an EpiPen?",
+        "question_ur": "ایپی پین کیا ہے؟",
+        "answer": "Injection for severe allergic reactions.",
+        "answer_ur": "شدید الرجی ردعمل کا انجکشن۔"
+    },
+    {
+        "id": 36,
+        "category": "Women's Health",
+        "question": "What is menopause?",
+        "question_ur": "سن یاس کیا ہے؟",
+        "answer": "End of menstrual cycles.",
+        "answer_ur": "ماہواری کے چکر کا خاتمہ۔"
+    },
+    {
+        "id": 37,
+        "category": "Women's Health",
+        "question": "Importance of folic acid?",
+        "question_ur": "فولک ایسڈ کی اہمیت؟",
+        "answer": "Prevents birth defects.",
+        "answer_ur": "پیدائشی نقائص کو روکتا ہے۔"
+    },
+    {
+        "id": 38,
+        "category": "Men's Health",
+        "question": "Screening for prostate cancer?",
+        "question_ur": "پروسٹیٹ کینسر کی اسکریننگ؟",
+        "answer": "PSA blood test, exam.",
+        "answer_ur": "پی ایس اے بلڈ ٹیسٹ، معائنہ۔"
+    },
+    {
+        "id": 39,
+        "category": "Men's Health",
+        "question": "Signs of low testosterone?",
+        "question_ur": "کم ٹیسٹوسٹیرون کی علامات؟",
+        "answer": "Fatigue, low libido, muscle loss.",
+        "answer_ur": "تھکاوٹ، کم جنسی خواہش، پٹھوں کی کمزوری۔"
+    },
+    {
+        "id": 40,
+        "category": "Infections",
+        "question": "What are antibiotics for?",
+        "question_ur": "اینٹی بائیوٹکس کس لیے ہیں؟",
+        "answer": "Bacterial infections only.",
+        "answer_ur": "صرف بیکٹیریل انفیکشن کے لیے۔"
+    },
+    {
+        "id": 41,
+        "category": "Infections",
+        "question": "How to wash hands properly?",
+        "question_ur": "ہاتھ صحیح طریقے سے کیسے دھوئیں؟",
+        "answer": "Soap and water for 20 seconds.",
+        "answer_ur": "صابن اور پانی سے 20 سیکنڈ تک۔"
+    },
+    {
+        "id": 42,
+        "category": "Vaccines",
+        "question": "Why are vaccines important?",
+        "question_ur": "ویکسین کیوں ضروری ہیں؟",
+        "answer": "Prevent serious diseases.",
+        "answer_ur": "سنگین بیماریوں سے بچاتی ہیں۔"
+    },
+    {
+        "id": 43,
+        "category": "Vaccines",
+        "question": "Do vaccines cause autism?",
+        "question_ur": "کیا ویکسین آٹزم کا سبب بنتی ہیں؟",
+        "answer": "No, extensive research confirms this.",
+        "answer_ur": "نہیں، وسیع تحقیق اس کی تصدیق کرتی ہے۔"
+    },
+    {
+        "id": 44,
+        "category": "Emergency",
+        "question": "What is CPR?",
+        "question_ur": "سی پی آر کیا ہے؟",
+        "answer": "Chest compressions to save a life.",
+        "answer_ur": "جان بچانے کے لیے سینے کا دباؤ۔"
+    },
+    {
+        "id": 45,
+        "category": "Emergency",
+        "question": "Stroke test acronym?",
+        "question_ur": "اسٹروک ٹیسٹ کا مخفف؟",
+        "answer": "FAST: Face, Arms, Speech, Time.",
+        "answer_ur": "FAST: چہرہ، بازو، بول چال، وقت۔"
+    },
+    {
+        "id": 46,
+        "category": "Chronic Conditions",
+        "question": "Managing arthritis pain?",
+        "question_ur": "گٹھیا کے درد کا انتظام؟",
+        "answer": "Medication, therapy, exercise.",
+        "answer_ur": "دوا، تھیراپی، ورزش۔"
+    },
+    {
+        "id": 47,
+        "category": "Chronic Conditions",
+        "question": "What is hypertension?",
+        "question_ur": "ہائی بلڈ پریشر کیا ہے؟",
+        "answer": "High blood pressure.",
+        "answer_ur": "بلڈ پریشر کی زیادتی۔"
+    },
+    {
+        "id": 48,
+        "category": "Healthy Aging",
+        "question": "Tips for brain health?",
+        "question_ur": "دماغی صحت کے لیے نکات؟",
+        "answer": "Learn new things, socialize.",
+        "answer_ur": "نئی چیزیں سیکھیں، میل جول رکھیں۔"
+    },
+    {
+        "id": 49,
+        "category": "Healthy Aging",
+        "question": "Preventing falls in elderly?",
+        "question_ur": "بزرگوں میں گرنے سے کیسے بچیں؟",
+        "answer": "Remove rugs, use rails, lighting.",
+        "answer_ur": "قالین ہٹائیں، ریلنگ استعمال کریں، روشنی۔"
+    },
+    {
+        "id": 50,
+        "category": "General Health",
+        "question": "Why manage BMI?",
+        "question_ur": "بی ایم آئی کا خیال کیوں رکھیں؟",
+        "answer": "Reduce risk of chronic diseases.",
+        "answer_ur": "دائمی بیماریوں کا خطرہ کم کرنے کے لیے۔"
+    }
+]
